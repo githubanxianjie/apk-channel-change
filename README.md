@@ -1,2 +1,2 @@
 # apk-channel-change
-first将一个apk动态改变渠道号，channel信息
+将一个apk 通过工具类动态改变渠道号（channel）信息
