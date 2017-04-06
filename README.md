@@ -7,6 +7,8 @@
 String loadChannel =Reader.loadChannel(file);
 
 通过 Writer类的 saveChannel（） 方法，传入需要改变的apk file
+
+
 和需要更改 才channel 的value 信息
  Writer.saveChannel(file, "gu_123456789");
  
